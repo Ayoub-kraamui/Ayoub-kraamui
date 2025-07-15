@@ -23,7 +23,7 @@ I continuously seek to develop my skills to contribute to achieving the goals of
 - **Yemeni Universities Application** ([Android](https://github.com/Ayoub-kraamui/universitys_yemen.git)) ([IOS]([https://apps.apple.com/us/app/mega-books/id1596646061](https://github.com/Ayoub-kraamui/universitys_yemen.git)))
 
 ### Github Stats
-[![Ayoub's Github Stats](https://github-readme-stats.vercel.app/api?username=Ayoub-kraamui&count_private=true&theme=default&show_icons=true&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/tarekalabd)
+[![Ayoub's Github Stats](https://github-readme-stats.vercel.app/api?username=Ayoub-kraamui&count_private=true&theme=default&show_icons=true&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Ayoub-kraamui)
 
 ### Want to support?
  
